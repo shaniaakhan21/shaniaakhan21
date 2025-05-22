@@ -22,7 +22,8 @@ I'm a versatile tech enthusiast who thrives on solving complex problems. With a 
 At Go Girl Organization, I empower aspiring tech enthusiasts, particularly girls, to dive into the world of technology. Watching them grow and succeed is my greatest reward.
 
 ### 📈 Projects I'm Proud Of
-- **[Portfolio Website](https://shaniya.pro)**: A showcase of my work and a platform for connecting with recruiters and industry professionals.
+- **Blockchain Factory** – A real-world blockchain platform offering secure node hosting, smart contract management, and crypto payment systems. As a developer, I contribute to both the frontend (React/CoreUI) and backend (Node.js, MongoDB), including wallet integrations, event systems, and token-based utilities.
+🌐 blockchainfactory.io
 - **Premier Rx:** An alternative membership-based program for prescription benefits, featuring a comprehensive dashboard and telemedicine access.
 - **Emays:** A luxury clothing try-at-home service with order tracking, payment processing, and email automation.
 
@@ -30,7 +31,7 @@ At Go Girl Organization, I empower aspiring tech enthusiasts, particularly girls
 
 ## 🎯 Let's Connect!
 I'm always open to collaboration and new opportunities. If you're looking for a dedicated developer who can bring your vision to life, feel free to reach out!  
-👉 [LinkedIn](https://www.linkedin.com/in/codewithshaniya/) | [Portfolio](https://shaniya.pro)
+👉 [LinkedIn](https://www.linkedin.com/in/codewithshaniya/) 
 
 ---
 
