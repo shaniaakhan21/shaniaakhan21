@@ -133,6 +133,26 @@ Production multi-modal deepfake detection system. **~99% accuracy** across image
 
 <br/>
 
+## 🔬 Research
+
+**Real-time Multi-Modal Deepfake Detection and Analysis**
+
+Master's research project focused on detecting manipulated media across:
+
+• Images  
+• Audio  
+• Video  
+
+Techniques explored:
+
+- CNN architectures
+- Spectrogram-based audio detection
+- Frame-level video analysis
+- Explainable AI (Grad-CAM)
+- ML experiment tracking with MLflow
+  
+<br/>
+
 ## 📍 Right Now
 
 ```text
