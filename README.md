@@ -54,6 +54,19 @@ Production multi-modal deepfake detection system. **~99% accuracy** across image
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🪔 Gas Genie](https://github.com/shaniaakhan21/gas-genie)
+Conversational AI that turns plain English into **Google Workspace automations**. Describe what you need, Genie asks clarifying questions, then generates and deploys a working Apps Script—no coding required.
+
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Gemini](https://img.shields.io/badge/Gemini_AI-0d1117?style=flat-square&logo=google&logoColor=4285F4)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+
+</td>
+</tr>
 </table>
 
 <br/>
