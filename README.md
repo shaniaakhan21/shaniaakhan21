@@ -15,9 +15,9 @@
 
 <br/>
 
-I build production systems end-to-end — from pixel-perfect frontends to scalable backends to real ML pipelines. Not just notebooks.
+I build production systems end-to-end from pixel-perfect frontends to scalable backends to real ML pipelines. Not just notebooks.
 
-Problem solver regardless of domain. Fintech, cybersecurity, health, education — I'll figure it out and ship it. COO of **[Go Girl Organisation](https://github.com/gogirlorganisation)**, working to get more girls into tech worldwide.
+Problem solver regardless of domain. Fintech, cybersecurity, health, education — I'll figure it out and ship it. COO of **[Go Girl Organisation](https://www.gogirlorganisation.com/)**, working to get more girls into tech worldwide.
 
 <br/>
 
