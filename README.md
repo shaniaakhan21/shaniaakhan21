@@ -2,7 +2,7 @@
 
 # Shaniya Khan
 
-**AI Engineer · Full-Stack Developer · Building Intelligent Systems**
+**AI Engineer · Full-Stack Developer · Building Intelligent Systems · Chief Operating Officer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithshaniya/)
 [![GitHub followers](https://img.shields.io/github/followers/shaniaakhan21?style=flat-square&logo=github&label=Follow&color=161b22)](https://github.com/shaniaakhan21)
