@@ -66,6 +66,17 @@ Conversational AI that turns plain English into **Google Workspace automations**
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
 
 </td>
+<td width="50%" valign="top">
+
+### [📄 Enterprise RAG](https://github.com/shaniaakhan21/enterprise-rag)
+Production RAG pipeline for financial document Q&A. **90% keyword recall** via hybrid search (BM25 + Qdrant) and cross-encoder reranking. Full security layer, LangSmith tracing, async ingestion, and exponential backoff retry.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-0d1117?style=flat-square&logo=qdrant&logoColor=DC244C)
+![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=google&logoColor=4285F4)
+
+</td>
 </tr>
 </table>
 
