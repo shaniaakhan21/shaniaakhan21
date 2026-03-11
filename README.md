@@ -30,7 +30,7 @@ Problem solver regardless of domain. Fintech, cybersecurity, health, education �
 <td width="50%" valign="top">
 
 ### [🕵️ SAR Copilot](https://github.com/shaniaakhan21/DERIV-SAR-COPILOT)
-AI-powered financial crime detection platform. Reduces **2,000 weekly fraud alerts to 22 cases** via DBSCAN clustering, network graph analysis, and GPT-4 SAR generation.
+AI-powered financial crime detection platform. **Reduces 2,000 weekly fraud alerts to 50 high-confidence cases** via DBSCAN clustering, network graph analysis, and GPT-4 SAR narrative generation.
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=3C873A)
