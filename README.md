@@ -159,30 +159,26 @@ Production RAG pipeline for financial document Q&A. **90% keyword recall** via h
 
 ## 🔬 Research
 
-**Real-time Multi-Modal Deepfake Detection and Analysis**
+**Compression-Robust Multimodal Deepfake Detection**
 
-Master's research project focused on detecting manipulated media across:
+MTech thesis (BITS Pilani, 2025): DeepTrace — multimodal detection system spanning image, audio, and video modalities. Current work investigates how JPEG and H.264/H.265 compression degrades multi-modal detector performance, targeting the AUC gap exposed by DeepFake-Eval-2024.
 
-• Images  
-• Audio  
-• Video  
-
-Techniques explored:
-
-- CNN architectures
-- Spectrogram-based audio detection
-- Frame-level video analysis
+Techniques:
+- CNN architectures for visual artifact detection
+- Spectrogram-based audio deepfake detection
+- Frame-level video temporal analysis
 - Explainable AI (Grad-CAM)
 - ML experiment tracking with MLflow
-  
+
 <br/>
+
+---
 
 ## 📍 Right Now
 
 ```text
 Building    →  notesync · mlplayground · snapmed-ai
-Exploring   →  AI robustness · foundation model safety · explainability
-Open to     →  Remote Full-Stack / AI Engineer roles
+Research    →  compression robustness · multimodal forensics · AI safety
 ```
 
 <br/>
